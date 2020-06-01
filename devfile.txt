@@ -1,2 +1,2 @@
-Hello Devfile my change
+Hello Devfile my change and my second
 Hello first change
